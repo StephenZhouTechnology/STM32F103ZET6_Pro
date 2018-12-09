@@ -1,0 +1,47 @@
+*** Creating Trace Output File '..\OBJ\USART.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"..\obj\main.o"'
+### List of Objects: adding '"..\obj\stm32f10x_it.o"'
+### List of Objects: adding '"..\obj\system_stm32f10x.o"'
+### List of Objects: adding '"..\obj\led.o"'
+### List of Objects: adding '"..\obj\key.o"'
+### List of Objects: adding '"..\obj\delay.o"'
+### List of Objects: adding '"..\obj\sys.o"'
+### List of Objects: adding '"..\obj\core_cm3.o"'
+### List of Objects: adding '"..\obj\startup_stm32f10x_hd.o"'
+### List of Objects: adding '"..\obj\misc.o"'
+### List of Objects: adding '"..\obj\stm32f10x_gpio.o"'
+### List of Objects: adding '"..\obj\stm32f10x_rcc.o"'
+### List of Objects: adding '"..\obj\stm32f10x_usart.o"'
+### List of Objects: adding '"..\obj\stm32f10x_dma.o"'
+### List of Objects: adding '"..\obj\stm32f10x_exti.o"'
+### List of Objects: adding '"..\obj\stm32f10x_adc.o"'
+### List of Objects: adding '"..\obj\stm32f10x_bkp.o"'
+### List of Objects: adding '"..\obj\stm32f10x_pwr.o"'
+### List of Objects: adding '"..\obj\stm32f10x_rtc.o"'
+### List of Objects: adding '"..\obj\stm32f10x_tim.o"'
+### List of Objects: adding '"..\obj\stm32f10x_iwdg.o"'
+### List of Objects: adding '"..\obj\stm32f10x_wwdg.o"'
+### List of Objects: adding '"..\obj\stm32f10x_spi.o"'
+### List of Objects: adding '"..\obj\stm32f10x_sdio.o"'
+### List of Objects: adding '"..\obj\sk_sys.o"'
+### List of Objects: adding '"..\obj\sk_spi_flash.o"'
+### List of Objects: adding '"..\obj\sk_mirco_sd_card.o"'
+### List of Objects: adding '"..\obj\sk_print.o"'
+### List of Objects: adding '"..\obj\sk_pwm.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 "..\obj\main.o" "..\obj\stm32f10x_it.o" "..\obj\system_stm32f10x.o" "..\obj\led.o" "..\obj\key.o" "..\obj\delay.o" "..\obj\sys.o" "..\obj\core_cm3.o" "..\obj\startup_stm32f10x_hd.o" "..\obj\misc.o" "..\obj\stm32f10x_gpio.o" "..\obj\stm32f10x_rcc.o" "..\obj\stm32f10x_usart.o" "..\obj\stm32f10x_dma.o" "..\obj\stm32f10x_exti.o" "..\obj\stm32f10x_adc.o" "..\obj\stm32f10x_bkp.o" "..\obj\stm32f10x_pwr.o" "..\obj\stm32f10x_rtc.o" "..\obj\stm32f10x_tim.o" "..\obj\stm32f10x_iwdg.o" "..\obj\stm32f10x_wwdg.o" "..\obj\stm32f10x_spi.o" "..\obj\stm32f10x_sdio.o" "..\obj\sk_sys.o" "..\obj\sk_spi_flash.o" "..\obj\sk_mirco_sd_card.o" "..\obj\sk_print.o" "..\obj\sk_pwm.o" --library_type=microlib --strict --scatter "..\OBJ\USART.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\USART.map" -o "..\OBJ\USART.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '..\OBJ\USART.axf'
+### ADS-LD Command File: '..\OBJ\USART.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '..\OBJ\USART.lnp', Handle=0x0000051C
+### Writing '.lnp' file
+### ADS-LD Command file '..\OBJ\USART.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.
